@@ -12,18 +12,18 @@
           </p>
           <div className="social-fot">
           <ul className="displayi">
-            <li>
+            <li className="icoo">
               <a target="_blank" rel="noreferrer" href={'https://www.twitter.com'}
               >
                 <i className="fab fa-youtube"></i>
               </a>
             </li>
-            <li>
+            <li  className="icoo">
               <a target="_blank" rel="noreferrer" href={'https://www.twitter.com'}>
                 <i className="fab fa-instagram"></i>
               </a>
             </li>
-            <li>
+            <li  className="icoo">
               <a target="_blank" rel="noreferrer" href={'https://www.twitter.com'}>
                 <i className="fab fa-facebook-f"></i>
               </a>
