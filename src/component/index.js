@@ -1,6 +1,7 @@
 export {default as About} from './about';
 export {default as Attendform} from './attendform';
 export {default as Contact} from './contact';
+export {default as Contactform} from './contactform';
 export {default as Countdown} from './countdown';
 export {default as Courators} from './courators';
 export {default as Eventdoc} from './eventdoc';
